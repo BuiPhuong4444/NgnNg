@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ngôn Ngữ</string>
+    <string name="hintName">Tên</string>
+    <string name="hintPass">Mật khẩu</string>
+    <string name="btnLogin">Password</string>
+    <string name="btnRegister">Đăng ký</string>
+    <string name="txtLogin">Đăng Nhập</string>
+    <string name="btnEL">Tiếng Anh</string>
+    <string name="btnVN">Tiếng Việt</string>
+    <string name="txtSet">Cài đặt ngôn ngữ</string>
+</resources>

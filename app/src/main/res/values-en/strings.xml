@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language</string>
+    <string name="hintName">Name</string>
+    <string name="hintPass">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="txtLogin">Login</string>
+    <string name="btnEL">English</string>
+    <string name="btnVN">VietNamese</string>
+    <string name="txtSet">Set Language</string>
+</resources>
