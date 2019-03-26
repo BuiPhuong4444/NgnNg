@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
                 editor.apply();
                 Intent mIntent= new Intent(MainActivity.this,DangNhap.class);
                 startActivity(mIntent);
-                finish();
             }
         });
         btnTA.setOnClickListener(new View.OnClickListener() {
@@ -44,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
                 editor.apply();
                 Intent mIntent= new Intent(MainActivity.this,DangNhap.class);
                 startActivity(mIntent);
-                finish();
             }
         });
     }
